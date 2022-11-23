@@ -1,0 +1,21 @@
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: lightblue;
+    font-size: 52px;
+    font-family: Serif;
+}
+
+.navbar ul{
+    float: right;
+}
+
+.navbar ul li a:hover{
+    color: red;
+    transition: 0.3s;
+}
